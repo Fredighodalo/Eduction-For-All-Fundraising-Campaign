@@ -1,4 +1,4 @@
-# Eduction-For-All-Fundraising-Campaign (SQL)
+# Education-For-All-Fundraising-Campaign (SQL)
 Introduction to fundraising campaign and importance of data driven  decisions. To provide insights from the dataset to help optimize fundraising efforts.
 In today's world, access to education is more crucial than ever, yet many individuals face barriers to quality learning opportunities. The "Education For All" Fundraising Campaign SQL database is a powerful tool designed to support organizations and initiatives dedicated to promoting inclusive education worldwide.
 
